@@ -4,6 +4,6 @@ I write code.
 
 CS @ Davidson College '28
 
-[Portfolio](https://www.eliejerjees.com)
-[X/Twitter](https://x.com/ElieCLT)
-[LinkedIn](https://www.linkedin.com/in/eliejerjees/)
+[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/globe.svg" width="16"/> Portfolio](https://www.eliejerjees.com)  
+[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="16"/> X](https://x.com/ElieCLT)  
+[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="16"/> LinkedIn](https://www.linkedin.com/in/eliejerjees/)
