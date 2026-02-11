@@ -1,11 +1,13 @@
-## Hey, I'm Elie 👋
+# Hey, I'm Elie 👋
+
+### About me
 
 I write code.
 
 CS @ Davidson College '28
 
 
-
+### Connect with me
 [![Website](https://img.shields.io/badge/Website-EBE3D5?style=for-the-badge&logo=about.me&logoColor=4A3B2F)](https://www.eliejerjees.com)
 [![X/Twitter](https://img.shields.io/badge/X%2FTwitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ElieCLT)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliejerjees/)
